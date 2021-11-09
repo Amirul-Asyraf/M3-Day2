@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/M3-Day2/static/css/main.08d41a63.chunk.css",
+    "main.js": "/M3-Day2/static/js/main.0a2faace.chunk.js",
+    "main.js.map": "/M3-Day2/static/js/main.0a2faace.chunk.js.map",
+    "runtime-main.js": "/M3-Day2/static/js/runtime-main.9ee6033c.js",
+    "runtime-main.js.map": "/M3-Day2/static/js/runtime-main.9ee6033c.js.map",
+    "static/js/2.2a22163a.chunk.js": "/M3-Day2/static/js/2.2a22163a.chunk.js",
+    "static/js/2.2a22163a.chunk.js.map": "/M3-Day2/static/js/2.2a22163a.chunk.js.map",
+    "static/js/3.2c41e1a6.chunk.js": "/M3-Day2/static/js/3.2c41e1a6.chunk.js",
+    "static/js/3.2c41e1a6.chunk.js.map": "/M3-Day2/static/js/3.2c41e1a6.chunk.js.map",
+    "index.html": "/M3-Day2/index.html",
+    "static/css/main.08d41a63.chunk.css.map": "/M3-Day2/static/css/main.08d41a63.chunk.css.map",
+    "static/js/2.2a22163a.chunk.js.LICENSE.txt": "/M3-Day2/static/js/2.2a22163a.chunk.js.LICENSE.txt",
+    "static/media/django.bb902ef0.jpg": "/M3-Day2/static/media/django.bb902ef0.jpg",
+    "static/media/fight_club.93774a86.jpg": "/M3-Day2/static/media/fight_club.93774a86.jpg",
+    "static/media/heisenberg.a0436c05.jpg": "/M3-Day2/static/media/heisenberg.a0436c05.jpg",
+    "static/media/leon.4eb976a0.jpg": "/M3-Day2/static/media/leon.4eb976a0.jpg",
+    "static/media/logo.6ce24c58.svg": "/M3-Day2/static/media/logo.6ce24c58.svg",
+    "static/media/moonlight.199d6370.jpg": "/M3-Day2/static/media/moonlight.199d6370.jpg",
+    "static/media/pulp.044a4881.jpg": "/M3-Day2/static/media/pulp.044a4881.jpg",
+    "static/media/the_birds.2a76e5d4.jpg": "/M3-Day2/static/media/the_birds.2a76e5d4.jpg",
+    "static/media/wonder.abd57842.jpg": "/M3-Day2/static/media/wonder.abd57842.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ee6033c.js",
+    "static/js/2.2a22163a.chunk.js",
+    "static/css/main.08d41a63.chunk.css",
+    "static/js/main.0a2faace.chunk.js"
+  ]
+}
