@@ -1,0 +1,41 @@
+header {
+    width: 88vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    background-color: #1B2B7C;
+}
+
+.search_bar {
+    /* margin-left: 40px; */
+}
+
+.search {
+    padding: 20px 100px;
+    border: none;
+    text-align: left;
+    background-color: transparent;
+}
+
+.fa-search {
+    background-color: transparent;
+}
+
+.profile_pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.account {
+    width: 13vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: salmon; */
+}
